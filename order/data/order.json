@@ -1,0 +1,73 @@
+{
+    "order_id": "order-990990",
+    "is_test_order": "true",
+    "jobs": [
+        {
+            "job_name": "job001-001",
+            "product_uuid": "7752b4be-f43e-4ec3-be78-d9994456d267",
+            "runsize_uuid": "6237a36b-b046-4ef6-8fed-6cb9c22a5ece",
+            "option_uuids": [],
+            "turnaroundtime_uuid": "9f85d0c4-d344-4088-a719-86f8f84d504d",
+            "colorspec_uuid": "32d3c223-f82c-492b-b915-ba065a00862f",
+            "dropship": "true",
+            "skip_files": "true",
+            "ship_to": {
+                "company": "My Print Company",
+                "firstname": "James",
+                "lastname": "Doe",
+                "email": "james.doe@abcd_company.com",
+                "phone": "(865) 222-5555",
+                "address": "1800 Via Lago Drive",
+                "address2": "",
+                "city": "Lakeland",
+                "state": "FL",
+                "zipcode": "33810",
+                "country": "US"
+            },
+            "ship_from": {
+                "company": "My Print Company",
+                "firstname": "Mike",
+                "lastname": "Doe",
+                "email": null,
+                "phone": "(865) 222-5555",
+                "address": "1800 Via Lago Drive",
+                "address2": "",
+                "city": "Lakeland",
+                "state": "FL",
+                "zipcode": "33810",
+                "country": "US"
+            },
+            "shipper": {
+                "shipping_method": "FREE UPS Ground",
+                "shipping_code": "03f"
+            },
+            "ship_from_facility": "DAY"
+        }
+    ],
+    "payment": {
+        "payment_provider": {
+            "payment_provider_uuid": "6b0e699e-bdaf-4d1e-af4c-bc422ad21761"
+        },
+        "requested_currency": {
+            "currency_code": "USD"
+        },
+        "credit_card": {
+            "account_number": "4111111111111111",
+            "month": "09",
+            "year": "2019",
+            "ccv": "123"
+        },
+        "billing_info": {
+            "first_name": "Mike",
+            "last_name": "Doe",
+            "address1": "1900 CUMMINGS CTR",
+            "address2": "",
+            "city": "BEVERLY",
+            "state": "MA",
+            "zip": "01915",
+            "country": "US"
+        },
+        "order_id": "order-990990",
+        "comments": "This is a sample payment"
+    }
+}

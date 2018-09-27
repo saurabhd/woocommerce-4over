@@ -1,0 +1,28 @@
+.order-data-expand{border: 2px solid red;}
+.order_data_column_container .wc-item-meta-label{color:#777;}
+.error_4over{color: #dc3232;}
+#poststuff .inside, .edit-order-item{overflow: hidden;}
+#woo4over-items .order_data_column_container{border-bottom: 1px solid #dedede;padding-bottom: 20px;}
+#woo4over-items .order_data_column_container:last-child{border-bottom: none;}
+.input-text:disabled, .variations select:disabled, .input-text:readonly, .variations select:readonly {
+	background-color: #e9ecef !important;
+}
+
+.tabs-content .tab-data {
+	display: none;
+}
+.tabs-content .tab-data.active {
+	display: block;
+}
+.product-tabs {
+	margin-left: 0;
+	padding: 0;
+}
+.product-tabs li {
+	display: inline-block;
+	margin: 0 15px 0 0;
+	list-style: none;
+}
+
+.product-tabs li a{opacity: 0.3;}
+.product-tabs li a.active{ opacity: 1;}

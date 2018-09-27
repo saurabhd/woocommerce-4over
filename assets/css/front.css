@@ -1,0 +1,5 @@
+.variations_form .input-text:disabled, .variations_form select:disabled, .input-text:readonly, .variations_form select:readonly {
+	background-color: #e9ecef !important;
+}
+
+#order_review .modify-address-button, .woocommerce-checkout #customer_details .woocommerce-shipping-fields .button, .woocommerce-cart .calculated_shipping .multi-shipping{display: none !important;}
