@@ -1,2 +1,3 @@
-# fouroverapi
-Forover API Integration with WordPress
+# 4over API
+Forover API Integration with WordPress and WooCommerce
+For further support reach me @ contact@addwebsoluttion.com
